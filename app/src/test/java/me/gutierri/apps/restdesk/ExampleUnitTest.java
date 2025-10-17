@@ -1,4 +1,4 @@
-package me.gutierri.apps.restdesk;
+package me.gutierri.apps.restclock;
 
 import org.junit.Test;
 

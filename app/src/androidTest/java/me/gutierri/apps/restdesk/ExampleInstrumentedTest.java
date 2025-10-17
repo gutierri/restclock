@@ -1,4 +1,4 @@
-package me.gutierri.apps.restdesk;
+package me.gutierri.apps.restclock;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("me.gutierri.apps.restdesk", appContext.getPackageName());
+        assertEquals("me.gutierri.apps.restclock", appContext.getPackageName());
     }
 }
